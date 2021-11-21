@@ -1,0 +1,7 @@
+{
+  "Secret": "Secret",
+  "ExpirationDays": "30",
+  "URLCodeSize": "8",
+  "Port": "7000",
+  "Domain": "https://u.anutley.me"
+}
