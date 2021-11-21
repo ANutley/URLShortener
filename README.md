@@ -23,7 +23,7 @@
 * Port - The port Javalin should start with
 * Domain - The domain / ip this application will use (used to generate the urls that are passed back to the user)
 
-###ShareX
+### ShareX
 
 ShareX isn't required for URLShortener to work, but it allows you to easily send post requests to your webserver.
 
@@ -39,7 +39,7 @@ ShareX isn't required for URLShortener to work, but it allows you to easily send
 `/GET /api/{code}/` -> Returns JSON data containing the url to forward to, the url code, whether it is a permanent link,
 the time created in millis
 
-`/POST /api/` \/
+`/POST /api/` \\/
 ```
 {
   //Please use application/json
