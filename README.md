@@ -39,7 +39,7 @@ ShareX isn't required for URLShortener to work, but it allows you to easily send
 `/GET /api/{code}/` -> Returns JSON data containing the url to forward to, the url code, whether it is a permanent link,
 the time created in millis
 
-`/POST /api/` \\/
+`/PUT /api/` \\/
 ```
 {
   //Please use application/json
